@@ -1306,8 +1306,8 @@
 				<description>Date label</description>
 				<right>20</right>
 				<top>40</top>
-				<width>300</width>
-				<height>15</height>
+				<width>320</width>
+				<height>16</height>
 				<align>right</align>
 				<aligny>center</aligny>
 				<font>font12_title</font>
