@@ -1,3 +1,7 @@
+[B]4.7.15.1[/B]
+
+Minor changes to Home screen
+
 [B]4.7.14.1[/B]
 
 Ready for Nexus and some small changes
